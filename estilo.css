@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'Comic';
+    src: url('comic.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+  }
+
+#azul{
+color: blue;
+}
+
+#verde{
+color: green;
+}
+
+#parrafoyellow{
+    background-color: yellow;
+    font-weight: bold;
+  margin-left: 13%;
+  margin-right: 13%;
+}
+
+.gris{
+    border: 4px solid blue;
+    font-family: Comic;
+    background-color: grey;
+    margin-left: 10%;
+  margin-right: 10%;
+    
+}
+
+#fondogris{
+    background-color: grey;
+    margin-left: 10%;
+  margin-right: 10%;
+
+}
+
+#enlace{
+    color: green;
+    margin-left: 10%;
+}
+
+#oblicua{
+    font-style: oblique;
+    margin-left: 10%;
+
+}
+#izquierda{
+text-align: left;
+margin-left: 10%;
+}
+#derecha{
+    text-align: right;
+    margin-right: 10%;
+    }
